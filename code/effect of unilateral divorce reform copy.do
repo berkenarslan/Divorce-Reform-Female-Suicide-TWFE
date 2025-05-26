@@ -12,7 +12,7 @@ set more off
 *-----------------------------------------------------------
 * 1. Load the dataset
 *-----------------------------------------------------------
-use  "/Users/berkenarslan/Library/CloudStorage/OneDrive-Personal/MASTER/Semester 2/Econ4008-applied microeconometrics/Coursework questions and dataset-20250508/project 2/nofault_divorce copy.dta"
+use  "/Users/berkenarslan/Library/CloudStorage/OneDrive-Personal/MASTER/Semester 2/Econ4008-applied microeconometrics/Coursework questions and dataset-20250508/project 2/nofault_divorce.dta"
 
 
 
